@@ -1,0 +1,135 @@
+{
+  "fecha": "2026-10-03",
+  "generado_utc": "2026-10-03T22:56:17+00:00",
+  "estado": "ok",
+  "mensaje": "8 candidata(s) seleccionadas.",
+  "benchmark": "SPY",
+  "candidatas": [
+    {
+      "ticker": "ANET",
+      "precio": 207.35,
+      "stop": 192.8355,
+      "stop_pct": 0.07,
+      "objetivo": 259.1875,
+      "rr": 3.57,
+      "ret6": 0.6368,
+      "rsi": 60.18,
+      "puntos": 104.3,
+      "notas": [
+        "ventas +38%",
+        "beneficios +36%",
+        "analistas +17%"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "precio": 633.91,
+      "stop": 585.494,
+      "stop_pct": 0.0764,
+      "objetivo": 792.3875,
+      "rr": 3.27,
+      "ret6": 1.9145,
+      "rsi": 70.07,
+      "puntos": 98.1,
+      "notas": [
+        "ventas +50%",
+        "beneficios +160%",
+        "analistas -2%"
+      ]
+    },
+    {
+      "ticker": "DDOG",
+      "precio": 277.22,
+      "stop": 253.5232,
+      "stop_pct": 0.0855,
+      "objetivo": 346.525,
+      "rr": 2.92,
+      "ret6": 1.3033,
+      "rsi": 70.59,
+      "puntos": 96.7,
+      "notas": [
+        "ventas +36%",
+        "beneficios +1498%",
+        "analistas +4%"
+      ]
+    },
+    {
+      "ticker": "URI",
+      "precio": 1081.04,
+      "stop": 1005.3672,
+      "stop_pct": 0.07,
+      "objetivo": 1351.3,
+      "rr": 3.57,
+      "ret6": 0.4823,
+      "rsi": 59.59,
+      "puntos": 92.5,
+      "notas": [
+        "ventas +12%",
+        "beneficios +26%",
+        "analistas +17%"
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "precio": 472.78,
+      "stop": 439.6854,
+      "stop_pct": 0.07,
+      "objetivo": 590.975,
+      "rr": 3.57,
+      "ret6": 0.4015,
+      "rsi": 71.68,
+      "puntos": 89.4,
+      "notas": [
+        "ventas +36%",
+        "beneficios +77%",
+        "analistas +17%"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "precio": 517.53,
+      "stop": 481.3029,
+      "stop_pct": 0.07,
+      "objetivo": 646.9125,
+      "rr": 3.57,
+      "ret6": 0.3914,
+      "rsi": 62.7,
+      "puntos": 88.4,
+      "notas": [
+        "ventas +18%",
+        "beneficios +32%",
+        "analistas +12%"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "precio": 270.04,
+      "stop": 247.154,
+      "stop_pct": 0.0848,
+      "objetivo": 337.55,
+      "rr": 2.95,
+      "ret6": 1.7064,
+      "rsi": 68.75,
+      "puntos": 86.8,
+      "notas": [
+        "ventas +26%",
+        "analistas -13%"
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "precio": 403.24,
+      "stop": 368.7356,
+      "stop_pct": 0.0856,
+      "objetivo": 504.05,
+      "rr": 2.92,
+      "ret6": 1.4707,
+      "rsi": 62.6,
+      "puntos": 86.7,
+      "notas": [
+        "ventas +34%",
+        "analistas -2%"
+      ]
+    }
+  ]
+}
