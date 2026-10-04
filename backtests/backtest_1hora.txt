@@ -1,0 +1,30 @@
+⚡ Backtesting: operaciones de máximo 1 hora
+Velas de 5 min, 2026-07-13 → 2026-10-04 | 1.000 €, 5 posiciones de ~200 €, sin apalancamiento
+Cada línea: resultado medio por operación tras costes → en qué se convierten 1.000 € en el periodo
+
+ACCIONES (80 de EE. UU.) (SPY sin tocar en el periodo: +2.3%)
+— Ruptura con volumen: 3888 ops | ganadoras 39% | salidas: stop 1986, tiempo 1187, objetivo 715
+   sin costes: media -0.03%/op → 1.000 € → 954 € (1ª mitad -0.00% | 2ª -0.05%)
+   CFD eToro (solo spread ~0,15%): media -0.18%/op → 1.000 € → 557 € (1ª mitad -0.15% | 2ª -0.20%)
+   acciones reales eToro (1$+1$): media -0.93%/op → 1.000 € → 95 € (1ª mitad -0.91% | 2ª -0.96%)
+— Rebote en sobreventa: 243 ops | ganadoras 49% | salidas: objetivo 102, stop 100, tiempo 41
+   sin costes: media -0.01%/op → 1.000 € → 990 € (1ª mitad -0.02% | 2ª -0.01%)
+   CFD eToro (solo spread ~0,15%): media -0.16%/op → 1.000 € → 925 € (1ª mitad -0.17% | 2ª -0.16%)
+   acciones reales eToro (1$+1$): media -0.92%/op → 1.000 € → 584 € (1ª mitad -0.92% | 2ª -0.91%)
+— Ruptura de la apertura: 2131 ops | ganadoras 43% | salidas: tiempo 1035, stop 883, objetivo 213
+   sin costes: media -0.01%/op → 1.000 € → 917 € (1ª mitad -0.00% | 2ª -0.02%)
+   CFD eToro (solo spread ~0,15%): media -0.16%/op → 1.000 € → 660 € (1ª mitad -0.15% | 2ª -0.17%)
+   acciones reales eToro (1$+1$): media -0.92%/op → 1.000 € → 98 € (1ª mitad -0.91% | 2ª -0.93%)
+
+CRIPTO (10 grandes) (BTC sin tocar en el periodo: +32.8%)
+— Ruptura con volumen: 2202 ops | ganadoras 41% | salidas: stop 1155, objetivo 579, tiempo 468
+   sin costes: media +0.04%/op → 1.000 € → 1,184 € (1ª mitad +0.03% | 2ª +0.06%)
+   exchange barato (~0,2%): media -0.16%/op → 1.000 € → 531 € (1ª mitad -0.17% | 2ª -0.14%)
+   eToro (1% + 1%): media -1.96%/op → 1.000 € → 98 € (1ª mitad -1.97% | 2ª -1.94%)
+— Rebote en sobreventa: 20 ops | ganadoras 80% | salidas: objetivo 14, stop 3, tiempo 3
+   sin costes: media +0.30%/op → 1.000 € → 1,012 € (1ª mitad +0.13% | 2ª +0.46%)
+   exchange barato (~0,2%): media +0.10%/op → 1.000 € → 1,004 € (1ª mitad -0.07% | 2ª +0.26%)
+   eToro (1% + 1%): media -1.70%/op → 1.000 € → 934 € (1ª mitad -1.87% | 2ª -1.54%)
+
+Ojo: solo 60 días, un único tipo de mercado. Si sin costes la media ya es ~0 o negativa, no hay ventaja que salvar. Con x2 ganancias y pérdidas se duplican, pero no cambia el signo.
+(19 s)
