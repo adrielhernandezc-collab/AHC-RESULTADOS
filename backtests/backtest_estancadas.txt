@@ -1,0 +1,20 @@
+⏳ Backtesting: ¿vender las posiciones estancadas?
+2007-10-18 → 2026-10-02 | S&P 500 (500 valores), 1.000 €, 3 posiciones | entreno hasta 2016, validación desde 2017
+Regla: si tras N sesiones no ha cerrado nunca a +10 %, se vende y deja el hueco libre.
+
+Bot actual (sin regla)
+   +19.2%/año (entreno +16.0% | valid. +22.4%) | caída -35% | peor año -19% | final 28,051 €
+   323 ops, 41% ganadoras, media +3.9%, 49 días de media
+Vender estancadas a las 30 sesiones
+   +18.1%/año (entreno +10.9% | valid. +25.3%) | caída -36% | peor año -19% | final 23,329 €
+   434 ops, 42% ganadoras, media +2.8%, 36 días de media
+   vendidas por estancadas: 91 de 437 operaciones
+   frente al bot: entreno -5.1% | validación +2.9% → ❌ no mejora en las dos mitades
+Vender estancadas a las 60 sesiones
+   +20.9%/año (entreno +16.3% | valid. +25.3%) | caída -31% | peor año -19% | final 36,414 €
+   345 ops, 41% ganadoras, media +3.9%, 46 días de media
+   vendidas por estancadas: 17 de 348 operaciones
+   frente al bot: entreno +0.4% | validación +2.9% → ❌ no mejora en las dos mitades
+
+Recuerda: solo se eligen empresas que hoy están en el S&P 500, así que el pasado sale algo inflado. Lo importante es la comparación con el bot actual.
+(95 s)
