@@ -1,0 +1,28 @@
+🔥 Backtesting: estrategia B (corto plazo, más agresiva)
+2007-10-18 → 2026-10-02 | S&P 500 (500 valores), 1.000 €, 5 posiciones | entreno hasta 2016, validación desde 2017
+
+REFERENCIAS
+SPY comprar y no tocar: +10.9%/año (entreno +6.4% | valid. +15.3%) caída -55%
+Estrategia A (la del bot): +16.8%/año (entreno +13.5% | valid. +20.1%) caída -32%
+   544 ops, 39% ganadoras, media +3.4%, 49 días de media
+
+RETROCESO CORTO (RSI 2 < 10 EN TENDENCIA) (máx. 10 días)
+x1 acciones reales (1$+1$): -11.4%/año (entreno -22.1% | valid. +0.0%) caída -90%
+   548 ops, 27% ganadoras, media -2.09%/op, 3.6 días de bolsa de media | final 100 €
+x2 CFD (spread + nocturna): -10.5%/año (entreno -8.7% | valid. -12.1%) caída -90%
+   3836 ops, 59% ganadoras, media -0.18%/op, 3.8 días de bolsa de media | final 123 €
+
+RUPTURA DE 20 DÍAS CON VOLUMEN (máx. 20 días)
+x1 acciones reales (1$+1$): -11.5%/año (entreno -14.6% | valid. -8.5%) caída -91%
+   653 ops, 34% ganadoras, media -1.74%/op, 14.2 días de bolsa de media | final 98 €
+x2 CFD (spread + nocturna): +0.3%/año (entreno -5.4% | valid. +6.0%) caída -79%
+   1252 ops, 43% ganadoras, media +0.34%/op, 14.0 días de bolsa de media | final 1,062 €
+
+GAP ALCISTA (+4 %) CON VOLUMEN (máx. 5 días)
+x1 acciones reales (1$+1$): -11.5%/año (entreno -16.6% | valid. -6.4%) caída -91%
+   685 ops, 33% ganadoras, media -1.68%/op, 4.7 días de bolsa de media | final 99 €
+x2 CFD (spread + nocturna): -2.4%/año (entreno -2.0% | valid. -2.8%) caída -60%
+   1523 ops, 48% ganadoras, media +0.02%/op, 4.6 días de bolsa de media | final 625 €
+
+Recuerda: solo se eligen empresas que hoy están en el S&P 500, así que el pasado sale algo inflado para todas las estrategias (no para el SPY). La comisión nocturna del CFD es una estimación.
+(136 s)
