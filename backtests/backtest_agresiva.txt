@@ -1,0 +1,34 @@
+🚀 Backtesting: estrategia A agresiva
+2007-10-18 → 2026-10-02 | S&P 500 (500 valores), 1.000 € | entreno hasta 2016, validación desde 2017
+Todas con stop, escalones y venta si el S&P 500 cae bajo su media de 200 días, sin límite de tiempo.
+
+SPY comprar y no tocar
+   +10.9%/año (entreno +6.4% | valid. +15.3%) | caída -55% | peor año -37%
+A actual (la del bot: 5 posiciones, x1)
+   +16.8%/año (entreno +13.5% | valid. +20.1%) | caída -32% | peor año -17% | final 19,138 €
+   544 ops, 39% ganadoras, media +3.4%, 49 días de media
+
+CAMBIOS DE UNO EN UNO
+Más concentrada (3 posiciones en vez de 5)
+   +19.2%/año (entreno +16.0% | valid. +22.4%) | caída -35% | peor año -19% | final 28,051 €
+   323 ops, 41% ganadoras, media +3.9%, 49 días de media
+Momentum puro (primero las que más suben en 6 meses)
+   +15.4%/año (entreno +5.1% | valid. +26.1%) | caída -46% | peor año -21% | final 15,134 €
+   600 ops, 38% ganadoras, media +2.8%, 44 días de media
+x2 con CFD (doble exposición con comisión nocturna)
+   +20.8%/año (entreno +19.9% | valid. +21.6%) | caída -48% | peor año -30% | final 35,730 €
+   544 ops, 41% ganadoras, media +5.1%, 49 días de media
+Pirámide (compra otra igual al llegar a +18 %)
+   +16.3%/año (entreno +12.9% | valid. +19.5%) | caída -32% | peor año -17% | final 17,408 €
+   544 ops, 38% ganadoras, media +2.9%, 49 días de media, 43 pirámides
+Universo ampliado (S&P 1500: también medianas y pequeñas, 1492 valores)
+   +5.7%/año (entreno +3.6% | valid. +7.6%) | caída -38% | peor año -23% | final 2,839 €
+   606 ops, 34% ganadoras, media +1.3%, 43 días de media
+
+COMBINADA (cambios que mejoran el entreno en al menos 0,5 puntos): Más concentrada, x2 con CFD
+A agresiva combinada
+   +22.2%/año (entreno +18.8% | valid. +25.4%) | caída -55% | peor año -32% | final 44,395 €
+   323 ops, 40% ganadoras, media +5.7%, 49 días de media
+
+Recuerda: solo se eligen empresas que hoy están en esos índices, así que el pasado sale algo inflado (no para el SPY), y más en las pequeñas. Lo importante es comparar: cuánto más gana y cuánto más cae.
+(301 s)
