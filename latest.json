@@ -1,12 +1,13 @@
 {
   "fecha": "2026-10-04",
-  "generado_utc": "2026-10-04T11:47:32+00:00",
+  "generado_utc": "2026-10-04T12:05:44+00:00",
   "estado": "ok",
-  "mensaje": "8 candidata(s) seleccionadas.",
+  "mensaje": "6 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
       "ticker": "ANET",
+      "sector": "Technology",
       "precio": 207.35,
       "stop": 185.5783,
       "stop_pct": 0.105,
@@ -24,6 +25,7 @@
     },
     {
       "ticker": "AMD",
+      "sector": "Technology",
       "precio": 633.91,
       "stop": 561.2861,
       "stop_pct": 0.1146,
@@ -41,6 +43,7 @@
     },
     {
       "ticker": "DDOG",
+      "sector": "Technology",
       "precio": 277.22,
       "stop": 241.6748,
       "stop_pct": 0.1282,
@@ -58,6 +61,7 @@
     },
     {
       "ticker": "URI",
+      "sector": "Industrials",
       "precio": 1081.04,
       "stop": 967.5308,
       "stop_pct": 0.105,
@@ -74,69 +78,38 @@
       ]
     },
     {
-      "ticker": "TSM",
-      "precio": 472.78,
-      "stop": 423.1381,
+      "ticker": "SU.PA",
+      "sector": "Industrials",
+      "precio": 303.0,
+      "stop": 271.185,
       "stop_pct": 0.105,
-      "objetivo": 590.975,
+      "objetivo": 378.75,
       "rr": 2.38,
-      "ret6": 0.4015,
-      "rsi": 71.68,
-      "puntos": 84.7,
+      "ret6": 0.2023,
+      "rsi": 60.15,
+      "puntos": 44.8,
       "notas": [
-        "Technology",
-        "ventas +36%",
-        "beneficios +77%",
-        "analistas +17%"
+        "Industrials",
+        "beneficios +29%",
+        "analistas +8%"
       ]
     },
     {
-      "ticker": "MSFT",
-      "precio": 517.53,
-      "stop": 463.1894,
+      "ticker": "ETN",
+      "sector": "Industrials",
+      "precio": 436.11,
+      "stop": 390.3184,
       "stop_pct": 0.105,
-      "objetivo": 646.9125,
+      "objetivo": 545.1375,
       "rr": 2.38,
-      "ret6": 0.3914,
-      "rsi": 62.7,
-      "puntos": 83.7,
+      "ret6": 0.214,
+      "rsi": 56.31,
+      "puntos": 40.9,
       "notas": [
-        "Technology",
-        "ventas +18%",
-        "beneficios +32%",
-        "analistas +12%"
-      ]
-    },
-    {
-      "ticker": "CRWD",
-      "precio": 270.04,
-      "stop": 235.7109,
-      "stop_pct": 0.1271,
-      "objetivo": 337.55,
-      "rr": 1.97,
-      "ret6": 1.7064,
-      "rsi": 68.75,
-      "puntos": 82.9,
-      "notas": [
-        "Technology",
-        "ventas +26%",
-        "analistas -13%"
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "precio": 403.24,
-      "stop": 351.4835,
-      "stop_pct": 0.1284,
-      "objetivo": 504.05,
-      "rr": 1.95,
-      "ret6": 1.4707,
-      "rsi": 62.6,
-      "puntos": 82.8,
-      "notas": [
-        "Technology",
-        "ventas +34%",
-        "analistas -2%"
+        "Industrials",
+        "ventas +21%",
+        "beneficios -16%",
+        "analistas +10%"
       ]
     }
   ]
