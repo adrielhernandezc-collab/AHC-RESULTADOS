@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-04",
-  "generado_utc": "2026-10-04T11:20:42+00:00",
+  "generado_utc": "2026-10-04T11:47:32+00:00",
   "estado": "ok",
   "mensaje": "8 candidata(s) seleccionadas.",
   "benchmark": "SPY",
@@ -16,6 +16,7 @@
       "rsi": 60.18,
       "puntos": 99.5,
       "notas": [
+        "Technology",
         "ventas +38%",
         "beneficios +36%",
         "analistas +17%"
@@ -32,6 +33,7 @@
       "rsi": 70.07,
       "puntos": 93.7,
       "notas": [
+        "Technology",
         "ventas +50%",
         "beneficios +160%",
         "analistas -2%"
@@ -48,6 +50,7 @@
       "rsi": 70.59,
       "puntos": 92.8,
       "notas": [
+        "Technology",
         "ventas +36%",
         "beneficios +1498%",
         "analistas +4%"
@@ -64,6 +67,7 @@
       "rsi": 59.59,
       "puntos": 87.7,
       "notas": [
+        "Industrials",
         "ventas +12%",
         "beneficios +26%",
         "analistas +17%"
@@ -80,6 +84,7 @@
       "rsi": 71.68,
       "puntos": 84.7,
       "notas": [
+        "Technology",
         "ventas +36%",
         "beneficios +77%",
         "analistas +17%"
@@ -96,6 +101,7 @@
       "rsi": 62.7,
       "puntos": 83.7,
       "notas": [
+        "Technology",
         "ventas +18%",
         "beneficios +32%",
         "analistas +12%"
@@ -112,6 +118,7 @@
       "rsi": 68.75,
       "puntos": 82.9,
       "notas": [
+        "Technology",
         "ventas +26%",
         "analistas -13%"
       ]
@@ -127,6 +134,7 @@
       "rsi": 62.6,
       "puntos": 82.8,
       "notas": [
+        "Technology",
         "ventas +34%",
         "analistas -2%"
       ]
