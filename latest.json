@@ -1,98 +1,151 @@
 {
-  "fecha": "2026-10-05",
-  "generado_utc": "2026-10-05T21:42:21+00:00",
+  "fecha": "2026-10-06",
+  "generado_utc": "2026-10-06T21:40:48+00:00",
   "estado": "ok",
-  "mensaje": "5 candidata(s) seleccionadas.",
+  "mensaje": "8 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
       "ticker": "ANET",
       "sector": "Technology",
-      "precio": 206.9,
-      "stop": 185.1755,
+      "precio": 215.36,
+      "stop": 192.7472,
       "stop_pct": 0.105,
-      "objetivo": 258.625,
+      "objetivo": 269.2,
       "rr": 2.38,
-      "ret6": 0.6388,
-      "rsi": 59.52,
+      "ret6": 0.6115,
+      "rsi": 66.82,
       "puntos": 99.5,
       "notas": [
         "Technology",
         "ventas +38%",
         "beneficios +36%",
-        "analistas +17%"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "sector": "Technology",
-      "precio": 631.75,
-      "stop": 561.3328,
-      "stop_pct": 0.1115,
-      "objetivo": 789.6875,
-      "rr": 2.24,
-      "ret6": 1.8692,
-      "rsi": 69.24,
-      "puntos": 94.0,
-      "notas": [
-        "Technology",
-        "ventas +50%",
-        "beneficios +160%",
-        "analistas -2%"
+        "analistas +12%"
       ]
     },
     {
       "ticker": "DDOG",
       "sector": "Technology",
-      "precio": 276.415,
-      "stop": 242.0105,
-      "stop_pct": 0.1245,
-      "objetivo": 345.5188,
-      "rr": 2.01,
-      "ret6": 1.3727,
-      "rsi": 69.76,
-      "puntos": 93.0,
+      "precio": 278.24,
+      "stop": 244.2487,
+      "stop_pct": 0.1222,
+      "objetivo": 347.8,
+      "rr": 2.05,
+      "ret6": 1.3875,
+      "rsi": 70.61,
+      "puntos": 93.2,
       "notas": [
         "Technology",
         "ventas +36%",
         "beneficios +1498%",
-        "analistas +4%"
+        "analistas +3%"
       ]
     },
     {
       "ticker": "URI",
       "sector": "Industrials",
-      "precio": 1074.28,
-      "stop": 961.4806,
+      "precio": 1080.62,
+      "stop": 967.1549,
       "stop_pct": 0.105,
-      "objetivo": 1342.85,
+      "objetivo": 1350.775,
       "rr": 2.38,
-      "ret6": 0.4642,
-      "rsi": 57.96,
-      "puntos": 85.9,
+      "ret6": 0.4804,
+      "rsi": 59.09,
+      "puntos": 87.6,
       "notas": [
         "Industrials",
         "ventas +12%",
         "beneficios +26%",
-        "analistas +18%"
+        "analistas +17%"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "precio": 529.3,
+      "stop": 473.7235,
+      "stop_pct": 0.105,
+      "objetivo": 661.625,
+      "rr": 2.38,
+      "ret6": 0.4275,
+      "rsi": 68.01,
+      "puntos": 87.3,
+      "notas": [
+        "Technology",
+        "ventas +18%",
+        "beneficios +32%",
+        "analistas +10%"
       ]
     },
     {
       "ticker": "V",
       "sector": "Financial Services",
-      "precio": 369.71,
-      "stop": 330.8904,
+      "precio": 370.64,
+      "stop": 331.7228,
       "stop_pct": 0.105,
-      "objetivo": 462.1375,
+      "objetivo": 463.3,
       "rr": 2.38,
-      "ret6": 0.2236,
-      "rsi": 53.03,
-      "puntos": 66.9,
+      "ret6": 0.2299,
+      "rsi": 54.05,
+      "puntos": 67.5,
       "notas": [
         "Financial Services",
         "ventas +14%",
         "beneficios +10%",
         "analistas +13%"
+      ]
+    },
+    {
+      "ticker": "PWR",
+      "sector": "Industrials",
+      "precio": 719.56,
+      "stop": 644.0062,
+      "stop_pct": 0.105,
+      "objetivo": 899.45,
+      "rr": 2.38,
+      "ret6": 0.2956,
+      "rsi": 70.73,
+      "puntos": 64.1,
+      "notas": [
+        "Industrials",
+        "ventas +41%",
+        "beneficios +95%",
+        "analistas +7%"
+      ]
+    },
+    {
+      "ticker": "SIE.DE",
+      "sector": "Industrials",
+      "precio": 279.0,
+      "stop": 249.705,
+      "stop_pct": 0.105,
+      "objetivo": 348.75,
+      "rr": 2.38,
+      "ret6": 0.216,
+      "rsi": 55.62,
+      "puntos": 46.1,
+      "notas": [
+        "Industrials",
+        "beneficios +13%",
+        "analistas +9%"
+      ]
+    },
+    {
+      "ticker": "META",
+      "sector": "Communication Services",
+      "precio": 738.88,
+      "stop": 661.2976,
+      "stop_pct": 0.105,
+      "objetivo": 923.6,
+      "rr": 2.38,
+      "ret6": 0.2871,
+      "rsi": 63.05,
+      "puntos": 43.2,
+      "notas": [
+        "Communication Services",
+        "ventas +28%",
+        "beneficios -13%",
+        "analistas +8%"
       ]
     }
   ]
