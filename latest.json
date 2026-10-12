@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-10-09",
-  "generado_utc": "2026-10-09T21:42:07+00:00",
+  "fecha": "2026-10-12",
+  "generado_utc": "2026-10-12T21:43:40+00:00",
   "estado": "ok",
   "mensaje": "5 candidata(s) seleccionadas.",
   "benchmark": "SPY",
@@ -8,90 +8,90 @@
     {
       "ticker": "AMD",
       "sector": "Technology",
-      "precio": 608.1,
-      "stop": 536.6413,
-      "stop_pct": 0.1175,
-      "objetivo": 760.125,
-      "rr": 2.13,
-      "ret6": 1.4816,
-      "rsi": 57.19,
-      "puntos": 93.5,
+      "precio": 594.24,
+      "stop": 523.0924,
+      "stop_pct": 0.1197,
+      "objetivo": 742.8,
+      "rr": 2.09,
+      "ret6": 1.4075,
+      "rsi": 52.98,
+      "puntos": 93.4,
       "notas": [
         "Technology",
         "ventas +50%",
         "beneficios +160%",
-        "analistas +5%"
+        "analistas +7%"
+      ]
+    },
+    {
+      "ticker": "DDOG",
+      "sector": "Technology",
+      "precio": 287.29,
+      "stop": 251.3864,
+      "stop_pct": 0.125,
+      "objetivo": 359.1125,
+      "rr": 2.0,
+      "ret6": 1.6098,
+      "rsi": 67.88,
+      "puntos": 93.0,
+      "notas": [
+        "Technology",
+        "ventas +36%",
+        "beneficios +1498%",
+        "analistas +0%"
       ]
     },
     {
       "ticker": "SNOW",
       "sector": "Technology",
-      "precio": 368.89,
-      "stop": 325.8577,
-      "stop_pct": 0.1167,
-      "objetivo": 461.1125,
-      "rr": 2.14,
-      "ret6": 2.0459,
-      "rsi": 68.9,
-      "puntos": 88.6,
+      "precio": 360.37,
+      "stop": 317.4562,
+      "stop_pct": 0.1191,
+      "objetivo": 450.4625,
+      "rr": 2.1,
+      "ret6": 1.6845,
+      "rsi": 62.9,
+      "puntos": 88.4,
       "notas": [
         "Technology",
         "ventas +35%",
-        "analistas +15%"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "sector": "Technology",
-      "precio": 216.74,
-      "stop": 193.9823,
-      "stop_pct": 0.105,
-      "objetivo": 270.925,
-      "rr": 2.38,
-      "ret6": 0.4709,
-      "rsi": 64.82,
-      "puntos": 86.6,
-      "notas": [
-        "Technology",
-        "ventas +38%",
-        "beneficios +36%",
-        "analistas +12%"
+        "analistas +18%"
       ]
     },
     {
       "ticker": "LLY",
       "sector": "Healthcare",
-      "precio": 1179.27,
-      "stop": 1055.4467,
+      "precio": 1182.62,
+      "stop": 1058.4449,
       "stop_pct": 0.105,
-      "objetivo": 1474.0875,
+      "objetivo": 1478.275,
       "rr": 2.38,
-      "ret6": 0.2592,
-      "rsi": 54.24,
-      "puntos": 65.4,
+      "ret6": 0.2763,
+      "rsi": 55.15,
+      "puntos": 67.2,
       "notas": [
         "Healthcare",
         "ventas +48%",
         "beneficios +26%",
-        "analistas +13%"
+        "analistas +12%"
       ]
     },
     {
       "ticker": "V",
       "sector": "Financial Services",
-      "precio": 385.45,
-      "stop": 344.9778,
+      "precio": 389.27,
+      "stop": 348.3966,
       "stop_pct": 0.105,
-      "objetivo": 481.8125,
+      "objetivo": 486.5875,
       "rr": 2.38,
-      "ret6": 0.2714,
-      "rsi": 67.6,
-      "puntos": 61.7,
+      "ret6": 0.2631,
+      "rsi": 70.12,
+      "puntos": 60.8,
       "notas": [
         "Financial Services",
         "ventas +14%",
         "beneficios +10%",
-        "analistas +9%"
+        "analistas +8%"
       ]
     }
   ]
