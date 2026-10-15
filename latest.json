@@ -1,97 +1,113 @@
 {
-  "fecha": "2026-10-14",
-  "generado_utc": "2026-10-14T21:57:33+00:00",
+  "fecha": "2026-10-15",
+  "generado_utc": "2026-10-15T21:55:48+00:00",
   "estado": "ok",
-  "mensaje": "5 candidata(s) seleccionadas.",
+  "mensaje": "6 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
       "ticker": "TEAM",
       "sector": "Technology",
-      "precio": 204.66,
-      "stop": 179.6493,
-      "stop_pct": 0.1222,
-      "objetivo": 255.825,
-      "rr": 2.05,
-      "ret6": 2.1009,
-      "rsi": 63.06,
+      "precio": 217.12,
+      "stop": 190.5486,
+      "stop_pct": 0.1224,
+      "objetivo": 271.4,
+      "rr": 2.04,
+      "ret6": 2.159,
+      "rsi": 69.91,
       "puntos": 78.2,
       "notas": [
         "Technology",
         "ventas +28%",
-        "analistas +3%"
+        "analistas -2%"
       ]
     },
     {
       "ticker": "PLTR",
       "sector": "Technology",
-      "precio": 200.97,
-      "stop": 179.8682,
+      "precio": 200.5,
+      "stop": 179.4475,
       "stop_pct": 0.105,
-      "objetivo": 251.2125,
+      "objetivo": 250.625,
       "rr": 2.38,
-      "ret6": 0.4138,
-      "rsi": 63.25,
-      "puntos": 75.9,
+      "ret6": 0.4045,
+      "rsi": 62.58,
+      "puntos": 75.0,
       "notas": [
         "Technology",
         "ventas +93%",
         "beneficios +215%",
-        "analistas +2%"
+        "analistas +3%"
       ]
     },
     {
       "ticker": "MSFT",
       "sector": "Technology",
-      "precio": 533.69,
-      "stop": 477.6526,
+      "precio": 539.44,
+      "stop": 482.7988,
       "stop_pct": 0.105,
-      "objetivo": 667.1125,
+      "objetivo": 674.3,
       "rr": 2.38,
-      "ret6": 0.3031,
-      "rsi": 62.49,
-      "puntos": 74.8,
+      "ret6": 0.2888,
+      "rsi": 65.08,
+      "puntos": 73.4,
       "notas": [
         "Technology",
         "ventas +18%",
         "beneficios +32%",
-        "analistas +11%"
+        "analistas +10%"
       ]
     },
     {
       "ticker": "LLY",
       "sector": "Healthcare",
-      "precio": 1208.74,
-      "stop": 1081.8223,
+      "precio": 1251.61,
+      "stop": 1120.1909,
       "stop_pct": 0.105,
-      "objetivo": 1510.925,
+      "objetivo": 1564.5125,
       "rr": 2.38,
-      "ret6": 0.3398,
-      "rsi": 60.44,
-      "puntos": 63.5,
+      "ret6": 0.3889,
+      "rsi": 67.79,
+      "puntos": 68.4,
       "notas": [
         "Healthcare",
         "ventas +48%",
         "beneficios +26%",
-        "analistas +10%"
+        "analistas +6%"
       ]
     },
     {
-      "ticker": "V",
-      "sector": "Financial Services",
-      "precio": 391.43,
-      "stop": 350.3298,
+      "ticker": "ABNB",
+      "sector": "Consumer Cyclical",
+      "precio": 174.28,
+      "stop": 155.9806,
       "stop_pct": 0.105,
-      "objetivo": 489.2875,
+      "objetivo": 217.85,
       "rr": 2.38,
-      "ret6": 0.2439,
-      "rsi": 67.56,
-      "puntos": 58.9,
+      "ret6": 0.2646,
+      "rsi": 61.89,
+      "puntos": 61.0,
       "notas": [
-        "Financial Services",
-        "ventas +14%",
-        "beneficios +10%",
-        "analistas +7%"
+        "Consumer Cyclical",
+        "ventas +16%",
+        "beneficios +33%",
+        "analistas +5%"
+      ]
+    },
+    {
+      "ticker": "OR.PA",
+      "sector": "Consumer Defensive",
+      "precio": 406.85,
+      "stop": 364.1308,
+      "stop_pct": 0.105,
+      "objetivo": 508.5625,
+      "rr": 2.38,
+      "ret6": 0.2019,
+      "rsi": 71.23,
+      "puntos": 34.7,
+      "notas": [
+        "Consumer Defensive",
+        "analistas +3%"
       ]
     }
   ]
