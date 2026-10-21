@@ -1,21 +1,21 @@
 {
-  "fecha": "2026-10-20",
-  "generado_utc": "2026-10-20T21:57:10+00:00",
+  "fecha": "2026-10-21",
+  "generado_utc": "2026-10-21T21:58:58+00:00",
   "estado": "ok",
-  "mensaje": "6 candidata(s) seleccionadas.",
+  "mensaje": "5 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
       "ticker": "TEAM",
       "sector": "Technology",
-      "precio": 221.11,
-      "stop": 193.0234,
-      "stop_pct": 0.127,
-      "objetivo": 276.3875,
-      "rr": 1.97,
-      "ret6": 2.1046,
-      "rsi": 67.56,
-      "puntos": 77.9,
+      "precio": 225.505,
+      "stop": 197.7953,
+      "stop_pct": 0.1229,
+      "objetivo": 281.8813,
+      "rr": 2.03,
+      "ret6": 2.047,
+      "rsi": 69.49,
+      "puntos": 78.1,
       "notas": [
         "Technology",
         "ventas +28%",
@@ -23,34 +23,34 @@
       ]
     },
     {
-      "ticker": "LLY",
-      "sector": "Healthcare",
-      "precio": 1283.66,
-      "stop": 1148.8757,
+      "ticker": "URI",
+      "sector": "Industrials",
+      "precio": 1068.98,
+      "stop": 956.7371,
       "stop_pct": 0.105,
-      "objetivo": 1604.575,
+      "objetivo": 1336.225,
       "rr": 2.38,
-      "ret6": 0.426,
-      "rsi": 69.78,
-      "puntos": 72.1,
+      "ret6": 0.3366,
+      "rsi": 55.97,
+      "puntos": 73.2,
       "notas": [
-        "Healthcare",
-        "ventas +48%",
+        "Industrials",
+        "ventas +12%",
         "beneficios +26%",
-        "analistas +4%"
+        "analistas +18%"
       ]
     },
     {
       "ticker": "MSFT",
       "sector": "Technology",
-      "precio": 531.87,
-      "stop": 476.0236,
+      "precio": 532.95,
+      "stop": 476.9903,
       "stop_pct": 0.105,
-      "objetivo": 664.8375,
+      "objetivo": 666.1875,
       "rr": 2.38,
-      "ret6": 0.259,
-      "rsi": 58.37,
-      "puntos": 70.4,
+      "ret6": 0.236,
+      "rsi": 58.96,
+      "puntos": 68.1,
       "notas": [
         "Technology",
         "ventas +18%",
@@ -59,57 +59,39 @@
       ]
     },
     {
+      "ticker": "LLY",
+      "sector": "Healthcare",
+      "precio": 1270.75,
+      "stop": 1137.3212,
+      "stop_pct": 0.105,
+      "objetivo": 1588.4375,
+      "rr": 2.38,
+      "ret6": 0.3834,
+      "rsi": 66.08,
+      "puntos": 67.9,
+      "notas": [
+        "Healthcare",
+        "ventas +48%",
+        "beneficios +26%",
+        "analistas +5%"
+      ]
+    },
+    {
       "ticker": "PLTR",
       "sector": "Technology",
-      "precio": 192.6,
-      "stop": 168.9197,
-      "stop_pct": 0.123,
-      "objetivo": 240.75,
-      "rr": 2.03,
-      "ret6": 0.3194,
-      "rsi": 52.12,
-      "puntos": 65.1,
+      "precio": 201.72,
+      "stop": 177.0162,
+      "stop_pct": 0.1225,
+      "objetivo": 252.15,
+      "rr": 2.04,
+      "ret6": 0.3217,
+      "rsi": 59.16,
+      "puntos": 65.3,
       "notas": [
         "Technology",
         "ventas +93%",
         "beneficios +215%",
-        "analistas +7%"
-      ]
-    },
-    {
-      "ticker": "ABNB",
-      "sector": "Consumer Cyclical",
-      "precio": 176.94,
-      "stop": 158.3613,
-      "stop_pct": 0.105,
-      "objetivo": 221.175,
-      "rr": 2.38,
-      "ret6": 0.2404,
-      "rsi": 64.35,
-      "puntos": 58.6,
-      "notas": [
-        "Consumer Cyclical",
-        "ventas +16%",
-        "beneficios +33%",
-        "analistas +4%"
-      ]
-    },
-    {
-      "ticker": "UNH",
-      "sector": "Healthcare",
-      "precio": 419.26,
-      "stop": 375.2377,
-      "stop_pct": 0.105,
-      "objetivo": 524.075,
-      "rr": 2.38,
-      "ret6": 0.2261,
-      "rsi": 71.31,
-      "puntos": 47.1,
-      "notas": [
-        "Healthcare",
-        "ventas -0%",
-        "beneficios +76%",
-        "analistas +14%"
+        "analistas +2%"
       ]
     }
   ]
