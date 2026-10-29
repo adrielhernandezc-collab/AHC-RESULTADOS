@@ -1,130 +1,115 @@
 {
-  "fecha": "2026-10-28",
-  "generado_utc": "2026-10-28T22:06:09+00:00",
+  "fecha": "2026-10-29",
+  "generado_utc": "2026-10-29T22:07:45+00:00",
   "estado": "ok",
-  "mensaje": "7 candidata(s) seleccionadas.",
+  "mensaje": "6 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
-      "ticker": "PANW",
-      "sector": "Technology",
-      "precio": 394.49,
-      "stop": 340.1227,
-      "stop_pct": 0.1378,
-      "objetivo": 493.1125,
-      "rr": 1.81,
-      "ret6": 1.173,
-      "rsi": 55.7,
-      "puntos": 82.3,
-      "notas": [
-        "Technology",
-        "ventas +34%",
-        "analistas +1%"
-      ]
-    },
-    {
       "ticker": "CRWD",
       "sector": "Technology",
-      "precio": 266.66,
-      "stop": 229.7763,
-      "stop_pct": 0.1383,
-      "objetivo": 333.325,
-      "rr": 1.81,
-      "ret6": 1.3578,
-      "rsi": 59.49,
-      "puntos": 82.2,
+      "precio": 261.15,
+      "stop": 222.9365,
+      "stop_pct": 0.1463,
+      "objetivo": 326.4375,
+      "rr": 1.71,
+      "ret6": 1.3435,
+      "rsi": 56.0,
+      "puntos": 81.8,
       "notas": [
         "Technology",
         "ventas +26%",
-        "analistas -7%"
+        "analistas -5%"
       ]
     },
     {
-      "ticker": "LLY",
-      "sector": "Healthcare",
-      "precio": 1288.3,
-      "stop": 1153.0285,
-      "stop_pct": 0.105,
-      "objetivo": 1610.3751,
-      "rr": 2.38,
-      "ret6": 0.5183,
-      "rsi": 64.46,
-      "puntos": 81.4,
-      "notas": [
-        "Healthcare",
-        "ventas +48%",
-        "beneficios +26%",
-        "analistas +4%"
-      ]
-    },
-    {
-      "ticker": "TEAM",
+      "ticker": "MSFT",
       "sector": "Technology",
-      "precio": 220.12,
-      "stop": 193.928,
-      "stop_pct": 0.119,
-      "objetivo": 275.15,
-      "rr": 2.1,
-      "ret6": 2.1227,
-      "rsi": 61.7,
-      "puntos": 78.4,
+      "precio": 530.14,
+      "stop": 474.4753,
+      "stop_pct": 0.105,
+      "objetivo": 662.675,
+      "rr": 2.38,
+      "ret6": 0.3053,
+      "rsi": 55.37,
+      "puntos": 75.1,
       "notas": [
         "Technology",
-        "ventas +28%",
-        "analistas +3%"
+        "ventas +18%",
+        "beneficios +32%",
+        "analistas +14%"
       ]
     },
     {
-      "ticker": "URI",
-      "sector": "Industrials",
-      "precio": 1174.61,
-      "stop": 1051.2759,
-      "stop_pct": 0.105,
-      "objetivo": 1468.2625,
-      "rr": 2.38,
-      "ret6": 0.2383,
-      "rsi": 70.62,
-      "puntos": 63.4,
+      "ticker": "PLTR",
+      "sector": "Technology",
+      "precio": 196.42,
+      "stop": 173.2649,
+      "stop_pct": 0.1179,
+      "objetivo": 245.525,
+      "rr": 2.12,
+      "ret6": 0.412,
+      "rsi": 53.43,
+      "puntos": 74.7,
       "notas": [
-        "Industrials",
-        "ventas +16%",
-        "beneficios +35%",
-        "analistas +10%"
+        "Technology",
+        "ventas +93%",
+        "beneficios +215%",
+        "analistas +7%"
       ]
     },
     {
       "ticker": "V",
       "sector": "Financial Services",
-      "precio": 400.6,
-      "stop": 358.537,
+      "precio": 410.54,
+      "stop": 367.4333,
       "stop_pct": 0.105,
-      "objetivo": 500.75,
+      "objetivo": 513.175,
       "rr": 2.38,
-      "ret6": 0.201,
-      "rsi": 60.95,
-      "puntos": 54.6,
+      "ret6": 0.2496,
+      "rsi": 67.7,
+      "puntos": 59.5,
       "notas": [
         "Financial Services",
-        "ventas +14%",
-        "beneficios +10%",
+        "ventas +13%",
+        "beneficios +22%",
         "analistas +7%"
       ]
     },
     {
       "ticker": "VRTX",
       "sector": "Healthcare",
-      "precio": 529.69,
-      "stop": 474.0726,
+      "precio": 540.0,
+      "stop": 483.3,
       "stop_pct": 0.105,
-      "objetivo": 662.1125,
+      "objetivo": 675.0,
       "rr": 2.38,
-      "ret6": 0.2515,
-      "rsi": 57.31,
-      "puntos": 49.7,
+      "ret6": 0.2635,
+      "rsi": 61.46,
+      "puntos": 50.9,
       "notas": [
         "Healthcare",
         "ventas +12%",
-        "analistas +8%"
+        "analistas +6%"
+      ]
+    },
+    {
+      "ticker": "MA",
+      "sector": "Financial Services",
+      "precio": 635.7,
+      "stop": 568.9515,
+      "stop_pct": 0.105,
+      "objetivo": 794.625,
+      "rr": 2.38,
+      "ret6": 0.2681,
+      "rsi": 69.98,
+      "puntos": 46.3,
+      "notas": [
+        "Financial Services",
+        "ventas +14%",
+        "beneficios +22%",
+        "deuda alta (440%)",
+        "analistas +6%"
       ]
     }
   ]
