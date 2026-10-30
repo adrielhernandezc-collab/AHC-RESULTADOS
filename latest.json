@@ -1,74 +1,39 @@
 {
-  "fecha": "2026-10-29",
-  "generado_utc": "2026-10-29T22:07:45+00:00",
+  "fecha": "2026-10-30",
+  "generado_utc": "2026-10-30T22:00:17+00:00",
   "estado": "ok",
-  "mensaje": "6 candidata(s) seleccionadas.",
+  "mensaje": "5 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
-      "ticker": "CRWD",
-      "sector": "Technology",
-      "precio": 261.15,
-      "stop": 222.9365,
-      "stop_pct": 0.1463,
-      "objetivo": 326.4375,
-      "rr": 1.71,
-      "ret6": 1.3435,
-      "rsi": 56.0,
-      "puntos": 81.8,
-      "notas": [
-        "Technology",
-        "ventas +26%",
-        "analistas -5%"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "sector": "Technology",
-      "precio": 530.14,
-      "stop": 474.4753,
+      "ticker": "URI",
+      "sector": "Industrials",
+      "precio": 1170.05,
+      "stop": 1047.1948,
       "stop_pct": 0.105,
-      "objetivo": 662.675,
+      "objetivo": 1462.5626,
       "rr": 2.38,
-      "ret6": 0.3053,
-      "rsi": 55.37,
-      "puntos": 75.1,
+      "ret6": 0.2373,
+      "rsi": 65.75,
+      "puntos": 63.3,
       "notas": [
-        "Technology",
-        "ventas +18%",
-        "beneficios +32%",
-        "analistas +14%"
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "sector": "Technology",
-      "precio": 196.42,
-      "stop": 173.2649,
-      "stop_pct": 0.1179,
-      "objetivo": 245.525,
-      "rr": 2.12,
-      "ret6": 0.412,
-      "rsi": 53.43,
-      "puntos": 74.7,
-      "notas": [
-        "Technology",
-        "ventas +93%",
-        "beneficios +215%",
-        "analistas +7%"
+        "Industrials",
+        "ventas +16%",
+        "beneficios +35%",
+        "analistas +10%"
       ]
     },
     {
       "ticker": "V",
       "sector": "Financial Services",
-      "precio": 410.54,
-      "stop": 367.4333,
+      "precio": 413.59,
+      "stop": 370.163,
       "stop_pct": 0.105,
-      "objetivo": 513.175,
+      "objetivo": 516.9875,
       "rr": 2.38,
-      "ret6": 0.2496,
-      "rsi": 67.7,
-      "puntos": 59.5,
+      "ret6": 0.2658,
+      "rsi": 69.44,
+      "puntos": 61.1,
       "notas": [
         "Financial Services",
         "ventas +13%",
@@ -77,39 +42,57 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "sector": "Technology",
+      "precio": 344.63,
+      "stop": 308.4439,
+      "stop_pct": 0.105,
+      "objetivo": 430.7875,
+      "rr": 2.38,
+      "ret6": 0.2324,
+      "rsi": 55.35,
+      "puntos": 57.8,
+      "notas": [
+        "Technology",
+        "ventas +16%",
+        "beneficios +29%",
+        "analistas -4%"
+      ]
+    },
+    {
       "ticker": "VRTX",
       "sector": "Healthcare",
-      "precio": 540.0,
-      "stop": 483.3,
+      "precio": 558.88,
+      "stop": 500.1976,
       "stop_pct": 0.105,
-      "objetivo": 675.0,
+      "objetivo": 698.6,
       "rr": 2.38,
-      "ret6": 0.2635,
-      "rsi": 61.46,
-      "puntos": 50.9,
+      "ret6": 0.3184,
+      "rsi": 67.65,
+      "puntos": 56.4,
       "notas": [
         "Healthcare",
         "ventas +12%",
-        "analistas +6%"
+        "analistas +2%"
       ]
     },
     {
       "ticker": "MA",
       "sector": "Financial Services",
-      "precio": 635.7,
-      "stop": 568.9515,
+      "precio": 638.01,
+      "stop": 571.019,
       "stop_pct": 0.105,
-      "objetivo": 794.625,
+      "objetivo": 797.5125,
       "rr": 2.38,
-      "ret6": 0.2681,
-      "rsi": 69.98,
-      "puntos": 46.3,
+      "ret6": 0.2918,
+      "rsi": 70.74,
+      "puntos": 48.7,
       "notas": [
         "Financial Services",
         "ventas +14%",
         "beneficios +22%",
-        "deuda alta (440%)",
-        "analistas +6%"
+        "deuda alta (355%)",
+        "analistas +7%"
       ]
     }
   ]
