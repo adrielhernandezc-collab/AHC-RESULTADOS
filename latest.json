@@ -1,21 +1,39 @@
 {
-  "fecha": "2026-10-30",
-  "generado_utc": "2026-10-30T22:00:17+00:00",
+  "fecha": "2026-11-02",
+  "generado_utc": "2026-11-02T22:05:12+00:00",
   "estado": "ok",
-  "mensaje": "5 candidata(s) seleccionadas.",
+  "mensaje": "3 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
+      "ticker": "SAP.DE",
+      "sector": "Technology",
+      "precio": 210.5,
+      "stop": 188.3975,
+      "stop_pct": 0.105,
+      "objetivo": 263.125,
+      "rr": 2.38,
+      "ret6": 0.4398,
+      "rsi": 65.54,
+      "puntos": 88.5,
+      "notas": [
+        "Technology",
+        "ventas +13%",
+        "beneficios +13%",
+        "analistas +14%"
+      ]
+    },
+    {
       "ticker": "URI",
       "sector": "Industrials",
-      "precio": 1170.05,
-      "stop": 1047.1948,
+      "precio": 1175.42,
+      "stop": 1052.0009,
       "stop_pct": 0.105,
-      "objetivo": 1462.5626,
+      "objetivo": 1469.2751,
       "rr": 2.38,
-      "ret6": 0.2373,
-      "rsi": 65.75,
-      "puntos": 63.3,
+      "ret6": 0.2753,
+      "rsi": 66.44,
+      "puntos": 57.0,
       "notas": [
         "Industrials",
         "ventas +16%",
@@ -24,75 +42,20 @@
       ]
     },
     {
-      "ticker": "V",
-      "sector": "Financial Services",
-      "precio": 413.59,
-      "stop": 370.163,
-      "stop_pct": 0.105,
-      "objetivo": 516.9875,
-      "rr": 2.38,
-      "ret6": 0.2658,
-      "rsi": 69.44,
-      "puntos": 61.1,
-      "notas": [
-        "Financial Services",
-        "ventas +13%",
-        "beneficios +22%",
-        "analistas +7%"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "sector": "Technology",
-      "precio": 344.63,
-      "stop": 308.4439,
-      "stop_pct": 0.105,
-      "objetivo": 430.7875,
-      "rr": 2.38,
-      "ret6": 0.2324,
-      "rsi": 55.35,
-      "puntos": 57.8,
-      "notas": [
-        "Technology",
-        "ventas +16%",
-        "beneficios +29%",
-        "analistas -4%"
-      ]
-    },
-    {
       "ticker": "VRTX",
       "sector": "Healthcare",
-      "precio": 558.88,
-      "stop": 500.1976,
+      "precio": 553.15,
+      "stop": 495.0693,
       "stop_pct": 0.105,
-      "objetivo": 698.6,
+      "objetivo": 691.4375,
       "rr": 2.38,
-      "ret6": 0.3184,
-      "rsi": 67.65,
-      "puntos": 56.4,
+      "ret6": 0.2868,
+      "rsi": 64.28,
+      "puntos": 53.2,
       "notas": [
         "Healthcare",
         "ventas +12%",
-        "analistas +2%"
-      ]
-    },
-    {
-      "ticker": "MA",
-      "sector": "Financial Services",
-      "precio": 638.01,
-      "stop": 571.019,
-      "stop_pct": 0.105,
-      "objetivo": 797.5125,
-      "rr": 2.38,
-      "ret6": 0.2918,
-      "rsi": 70.74,
-      "puntos": 48.7,
-      "notas": [
-        "Financial Services",
-        "ventas +14%",
-        "beneficios +22%",
-        "deuda alta (355%)",
-        "analistas +7%"
+        "analistas +3%"
       ]
     }
   ]
