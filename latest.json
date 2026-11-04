@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-11-02",
-  "generado_utc": "2026-11-02T22:05:12+00:00",
+  "fecha": "2026-11-04",
+  "generado_utc": "2026-11-04T01:32:43+00:00",
   "estado": "ok",
   "mensaje": "3 candidata(s) seleccionadas.",
   "benchmark": "SPY",
@@ -33,7 +33,7 @@
       "rr": 2.38,
       "ret6": 0.2753,
       "rsi": 66.44,
-      "puntos": 57.0,
+      "puntos": 67.0,
       "notas": [
         "Industrials",
         "ventas +16%",
@@ -55,7 +55,7 @@
       "notas": [
         "Healthcare",
         "ventas +12%",
-        "analistas +3%"
+        "analistas +4%"
       ]
     }
   ]
