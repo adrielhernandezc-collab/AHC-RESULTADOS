@@ -1,39 +1,57 @@
 {
-  "fecha": "2026-11-04",
-  "generado_utc": "2026-11-04T01:32:43+00:00",
+  "fecha": "2026-11-05",
+  "generado_utc": "2026-11-05T01:36:04+00:00",
   "estado": "ok",
-  "mensaje": "3 candidata(s) seleccionadas.",
+  "mensaje": "7 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
+      "ticker": "ELF",
+      "sector": "Consumer Defensive",
+      "precio": 111.5,
+      "stop": 99.5131,
+      "stop_pct": 0.1075,
+      "objetivo": 139.375,
+      "rr": 2.33,
+      "ret6": 0.8765,
+      "rsi": 54.83,
+      "puntos": 94.3,
+      "notas": [
+        "Consumer Defensive",
+        "ventas +36%",
+        "beneficios +93%",
+        "analistas +5%"
+      ]
+    },
+    {
       "ticker": "SAP.DE",
       "sector": "Technology",
-      "precio": 210.5,
-      "stop": 188.3975,
+      "precio": 206.65,
+      "stop": 184.9517,
       "stop_pct": 0.105,
-      "objetivo": 263.125,
+      "objetivo": 258.3125,
       "rr": 2.38,
-      "ret6": 0.4398,
-      "rsi": 65.54,
-      "puntos": 88.5,
+      "ret6": 0.4305,
+      "rsi": 58.44,
+      "puntos": 87.6,
       "notas": [
         "Technology",
         "ventas +13%",
         "beneficios +13%",
-        "analistas +14%"
+        "analistas +16%"
       ]
     },
     {
       "ticker": "URI",
       "sector": "Industrials",
-      "precio": 1175.42,
-      "stop": 1052.0009,
+      "precio": 1175.17,
+      "stop": 1051.7772,
       "stop_pct": 0.105,
-      "objetivo": 1469.2751,
+      "objetivo": 1468.9626,
       "rr": 2.38,
-      "ret6": 0.2753,
-      "rsi": 66.44,
-      "puntos": 67.0,
+      "ret6": 0.2631,
+      "rsi": 66.38,
+      "puntos": 65.8,
       "notas": [
         "Industrials",
         "ventas +16%",
@@ -42,20 +60,74 @@
       ]
     },
     {
+      "ticker": "V",
+      "sector": "Financial Services",
+      "precio": 420.42,
+      "stop": 376.2759,
+      "stop_pct": 0.105,
+      "objetivo": 525.525,
+      "rr": 2.38,
+      "ret6": 0.3107,
+      "rsi": 69.21,
+      "puntos": 65.6,
+      "notas": [
+        "Financial Services",
+        "ventas +13%",
+        "beneficios +22%",
+        "analistas +5%"
+      ]
+    },
+    {
+      "ticker": "MA",
+      "sector": "Financial Services",
+      "precio": 647.18,
+      "stop": 579.2261,
+      "stop_pct": 0.105,
+      "objetivo": 808.975,
+      "rr": 2.38,
+      "ret6": 0.3061,
+      "rsi": 68.66,
+      "puntos": 50.1,
+      "notas": [
+        "Financial Services",
+        "ventas +14%",
+        "beneficios +22%",
+        "deuda alta (355%)",
+        "analistas +9%"
+      ]
+    },
+    {
       "ticker": "VRTX",
       "sector": "Healthcare",
-      "precio": 553.15,
-      "stop": 495.0693,
+      "precio": 530.76,
+      "stop": 475.0302,
       "stop_pct": 0.105,
-      "objetivo": 691.4375,
+      "objetivo": 663.45,
       "rr": 2.38,
-      "ret6": 0.2868,
-      "rsi": 64.28,
-      "puntos": 53.2,
+      "ret6": 0.2507,
+      "rsi": 53.12,
+      "puntos": 39.6,
       "notas": [
         "Healthcare",
         "ventas +12%",
-        "analistas +4%"
+        "beneficios -39%",
+        "analistas +9%"
+      ]
+    },
+    {
+      "ticker": "OR.PA",
+      "sector": "Consumer Defensive",
+      "precio": 432.7,
+      "stop": 387.2665,
+      "stop_pct": 0.105,
+      "objetivo": 540.875,
+      "rr": 2.38,
+      "ret6": 0.2237,
+      "rsi": 68.53,
+      "puntos": 36.9,
+      "notas": [
+        "Consumer Defensive",
+        "analistas +0%"
       ]
     }
   ]
