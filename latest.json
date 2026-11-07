@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-11-06",
-  "generado_utc": "2026-11-06T01:42:16+00:00",
+  "fecha": "2026-11-07",
+  "generado_utc": "2026-11-07T01:02:08+00:00",
   "estado": "ok",
   "mensaje": "8 candidata(s) seleccionadas.",
   "benchmark": "SPY",
@@ -8,14 +8,14 @@
     {
       "ticker": "SAP.DE",
       "sector": "Technology",
-      "precio": 214.3,
-      "stop": 191.7985,
+      "precio": 215.75,
+      "stop": 193.0962,
       "stop_pct": 0.105,
-      "objetivo": 267.875,
+      "objetivo": 269.6875,
       "rr": 2.38,
-      "ret6": 0.5049,
-      "rsi": 66.26,
-      "puntos": 95.0,
+      "ret6": 0.5834,
+      "rsi": 67.51,
+      "puntos": 102.9,
       "notas": [
         "Technology",
         "ventas +13%",
@@ -24,127 +24,130 @@
       ]
     },
     {
-      "ticker": "ELF",
-      "sector": "Consumer Defensive",
-      "precio": 113.63,
-      "stop": 100.9114,
-      "stop_pct": 0.1119,
-      "objetivo": 142.0375,
-      "rr": 2.23,
-      "ret6": 0.8497,
-      "rsi": 59.14,
-      "puntos": 93.9,
-      "notas": [
-        "Consumer Defensive",
-        "ventas +36%",
-        "beneficios +93%",
-        "analistas +3%"
-      ]
-    },
-    {
       "ticker": "MSFT",
       "sector": "Technology",
-      "precio": 555.8,
-      "stop": 497.441,
+      "precio": 535.93,
+      "stop": 479.6573,
       "stop_pct": 0.105,
-      "objetivo": 694.75,
+      "objetivo": 669.9125,
       "rr": 2.38,
-      "ret6": 0.3481,
-      "rsi": 64.33,
-      "puntos": 79.3,
+      "ret6": 0.2789,
+      "rsi": 54.46,
+      "puntos": 72.4,
       "notas": [
         "Technology",
         "ventas +19%",
         "beneficios +32%",
-        "analistas +14%"
+        "analistas +18%"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "sector": "Healthcare",
+      "precio": 1364.73,
+      "stop": 1221.4333,
+      "stop_pct": 0.105,
+      "objetivo": 1705.9125,
+      "rr": 2.38,
+      "ret6": 0.4042,
+      "rsi": 63.42,
+      "puntos": 69.9,
+      "notas": [
+        "Healthcare",
+        "ventas +39%",
+        "beneficios +16%",
+        "analistas +6%"
+      ]
+    },
+    {
+      "ticker": "V",
+      "sector": "Financial Services",
+      "precio": 422.59,
+      "stop": 378.218,
+      "stop_pct": 0.105,
+      "objetivo": 528.2375,
+      "rr": 2.38,
+      "ret6": 0.3205,
+      "rsi": 63.25,
+      "puntos": 66.6,
+      "notas": [
+        "Financial Services",
+        "ventas +13%",
+        "beneficios +22%",
+        "analistas +5%"
       ]
     },
     {
       "ticker": "REGN",
       "sector": "Healthcare",
-      "precio": 930.67,
-      "stop": 832.9496,
-      "stop_pct": 0.105,
-      "objetivo": 1163.3375,
-      "rr": 2.38,
-      "ret6": 0.2942,
-      "rsi": 69.82,
-      "puntos": 63.9,
+      "precio": 902.9,
+      "stop": 807.4661,
+      "stop_pct": 0.1057,
+      "objetivo": 1128.625,
+      "rr": 2.37,
+      "ret6": 0.2767,
+      "rsi": 62.93,
+      "puntos": 62.1,
       "notas": [
         "Healthcare",
         "ventas +36%",
         "beneficios +36%",
-        "analistas +5%"
+        "analistas +8%"
       ]
     },
     {
-      "ticker": "ABNB",
-      "sector": "Consumer Cyclical",
-      "precio": 176.37,
-      "stop": 157.8511,
-      "stop_pct": 0.105,
-      "objetivo": 220.4625,
-      "rr": 2.38,
-      "ret6": 0.2609,
-      "rsi": 58.87,
-      "puntos": 60.6,
+      "ticker": "SPOT",
+      "sector": "Communication Services",
+      "precio": 614.41,
+      "stop": 546.352,
+      "stop_pct": 0.1108,
+      "objetivo": 768.0125,
+      "rr": 2.26,
+      "ret6": 0.4375,
+      "rsi": 66.43,
+      "puntos": 57.8,
       "notas": [
-        "Consumer Cyclical",
+        "Communication Services",
         "ventas +16%",
-        "beneficios +33%",
+        "beneficios -24%",
         "analistas +4%"
       ]
     },
     {
-      "ticker": "AAPL",
-      "sector": "Technology",
-      "precio": 349.51,
-      "stop": 312.8115,
+      "ticker": "MA",
+      "sector": "Financial Services",
+      "precio": 655.92,
+      "stop": 587.0484,
       "stop_pct": 0.105,
-      "objetivo": 436.8875,
+      "objetivo": 819.9,
       "rr": 2.38,
-      "ret6": 0.2178,
-      "rsi": 57.78,
-      "puntos": 56.3,
+      "ret6": 0.3136,
+      "rsi": 65.62,
+      "puntos": 50.9,
       "notas": [
-        "Technology",
-        "ventas +12%",
-        "beneficios +14%",
-        "analistas -5%"
+        "Financial Services",
+        "ventas +14%",
+        "beneficios +22%",
+        "deuda alta (355%)",
+        "analistas +8%"
       ]
     },
     {
       "ticker": "VRTX",
       "sector": "Healthcare",
-      "precio": 549.04,
-      "stop": 491.3908,
+      "precio": 542.5,
+      "stop": 485.5375,
       "stop_pct": 0.105,
-      "objetivo": 686.3,
+      "objetivo": 678.125,
       "rr": 2.38,
-      "ret6": 0.2839,
-      "rsi": 59.33,
-      "puntos": 42.9,
+      "ret6": 0.2765,
+      "rsi": 56.45,
+      "puntos": 42.2,
       "notas": [
         "Healthcare",
         "ventas +12%",
         "beneficios -39%",
-        "analistas +5%"
-      ]
-    },
-    {
-      "ticker": "ITX.MC",
-      "sector": "Consumer Cyclical",
-      "precio": 59.06,
-      "stop": 52.8587,
-      "stop_pct": 0.105,
-      "objetivo": 73.825,
-      "rr": 2.38,
-      "ret6": 0.2372,
-      "rsi": 70.1,
-      "puntos": 38.2,
-      "notas": [
-        "Consumer Cyclical",
-        "analistas +2%"
+        "analistas +7%"
       ]
     }
   ]
