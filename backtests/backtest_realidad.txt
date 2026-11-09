@@ -1,0 +1,53 @@
+🔎 Backtesting: ¿la mala racha de la demo cabe en el backtest?
+2007-11-26 → 2026-11-09 | S&P 500 (498 valores), 1.000 €, 3 posiciones | entreno hasta 2016, validación desde 2017
+
+A. HISTORIA (bot sin límite por sector, S&P 500)
+Resultado
+   +22.2%/año (entreno +19.4% | valid. +24.8%) | caída -30% | final 44,703 €
+   343 operaciones, 42% ganadoras, media +4.1%
+   Racha más larga de pérdidas seguidas: 20 | rachas de 7 o más: 4 | de 5 o más: 10
+   Peores 25 sesiones: -27.0% (terminaron el 2025-03-17)
+   Tramos de 25 sesiones que perdieron un 15 % o más: 1.0% | un 20 % o más: 0.3% | un 25 % o más: 0.2%
+   Tiempo máximo sin recuperar el máximo anterior: 694 días
+
+B. REPETICIÓN desde el 05/10/2026 (la demo real: 7 ventas, las 7 con pérdida, -25 %)
+S&P 500, sin límite: -7.4% (3 ventas, 2 con pérdida; 3 abiertas)
+   ANET 05/10→15/10 -11.2% (stop)
+   FTNT 05/10→29/10 -29.7% (stop)
+   CRL 05/10→02/11 +16.3% (stop+)
+   CNC 16/10→abierta -3.7%
+   BBY 30/10→abierta +7.4%
+   VEEV 03/11→abierta +1.1%
+S&P 500, máx. 2 por sector: -7.4% (3 ventas, 2 con pérdida; 3 abiertas)
+   ANET 05/10→15/10 -11.2% (stop)
+   FTNT 05/10→29/10 -29.7% (stop)
+   CRL 05/10→02/11 +16.3% (stop+)
+   CNC 16/10→abierta -3.7%
+   BBY 30/10→abierta +7.4%
+   VEEV 03/11→abierta +1.1%
+Nuestra lista (95 valores), sin límite: -16.7% (5 ventas, 5 con pérdida; 3 abiertas)
+   ANET 05/10→15/10 -11.2% (stop)
+   AMD 05/10→15/10 -15.1% (stop)
+   CRWD 05/10→16/10 -13.4% (stop)
+   TEAM 16/10→30/10 -13.0% (stop)
+   PLTR 16/10→02/11 -11.3% (stop)
+   LLY 19/10→abierta +13.6%
+   VRTX 02/11→abierta -1.8%
+   SAP.DE 03/11→abierta +1.7%
+SPY en el mismo tramo: -2.2%
+
+C. ARREGLOS (20 años, S&P 500)
+Bot sin límite por sector
+   +22.2%/año (entreno +19.4% | valid. +24.8%) | caída -30% | final 44,703 €
+Máximo 2 por sector
+   +22.2%/año (entreno +20.1% | valid. +24.2%) | caída -31% | final 45,048 €
+Máx. 2 por sector + no recomprar en 10 sesiones
+   +23.3%/año (entreno +18.0% | valid. +28.4%) | caída -31% | final 53,130 €
+Máx. 2 por sector + no comprar si abre un 3 % por debajo del aviso
+   +23.2%/año (entreno +20.1% | valid. +26.1%) | caída -31% | final 52,277 €
+Nuestra lista de 95 (OJO: elegida sabiendo cuáles subieron; sale inflada)
+   +17.8%/año (entreno +15.0% | valid. +20.6%) | caída -48% | final 22,488 €
+   344 operaciones | racha más larga de pérdidas: 21 | rachas de 7 o más: 8
+
+Recuerda: solo se eligen empresas que hoy están en el S&P 500, así que el pasado sale algo inflado.
+(131 s)
