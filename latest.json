@@ -1,153 +1,144 @@
 {
-  "fecha": "2026-11-07",
-  "generado_utc": "2026-11-07T01:02:08+00:00",
+  "fecha": "2026-11-09",
+  "generado_utc": "2026-11-09T21:23:11+00:00",
+  "datos_hasta": "2026-11-09",
   "estado": "ok",
   "mensaje": "8 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
-      "ticker": "SAP.DE",
-      "sector": "Technology",
-      "precio": 215.75,
-      "stop": 193.0962,
+      "ticker": "VEEV",
+      "sector": "Health Care",
+      "precio": 306.4,
+      "stop": 274.228,
       "stop_pct": 0.105,
-      "objetivo": 269.6875,
+      "objetivo": 383.0,
       "rr": 2.38,
-      "ret6": 0.5834,
-      "rsi": 67.51,
-      "puntos": 102.9,
+      "ret6": 0.9231,
+      "rsi": 53.21,
+      "puntos": 69.5,
       "notas": [
-        "Technology",
-        "ventas +13%",
-        "beneficios +13%",
-        "analistas +11%"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "sector": "Technology",
-      "precio": 535.93,
-      "stop": 479.6573,
-      "stop_pct": 0.105,
-      "objetivo": 669.9125,
-      "rr": 2.38,
-      "ret6": 0.2789,
-      "rsi": 54.46,
-      "puntos": 72.4,
-      "notas": [
-        "Technology",
-        "ventas +19%",
-        "beneficios +32%",
-        "analistas +18%"
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "sector": "Healthcare",
-      "precio": 1364.73,
-      "stop": 1221.4333,
-      "stop_pct": 0.105,
-      "objetivo": 1705.9125,
-      "rr": 2.38,
-      "ret6": 0.4042,
-      "rsi": 63.42,
-      "puntos": 69.9,
-      "notas": [
-        "Healthcare",
-        "ventas +39%",
-        "beneficios +16%",
-        "analistas +6%"
-      ]
-    },
-    {
-      "ticker": "V",
-      "sector": "Financial Services",
-      "precio": 422.59,
-      "stop": 378.218,
-      "stop_pct": 0.105,
-      "objetivo": 528.2375,
-      "rr": 2.38,
-      "ret6": 0.3205,
-      "rsi": 63.25,
-      "puntos": 66.6,
-      "notas": [
-        "Financial Services",
-        "ventas +13%",
-        "beneficios +22%",
+        "Health Care",
+        "ventas +18%",
+        "beneficios +40%",
         "analistas +5%"
       ]
     },
     {
-      "ticker": "REGN",
-      "sector": "Healthcare",
-      "precio": 902.9,
-      "stop": 807.4661,
-      "stop_pct": 0.1057,
-      "objetivo": 1128.625,
-      "rr": 2.37,
-      "ret6": 0.2767,
-      "rsi": 62.93,
-      "puntos": 62.1,
-      "notas": [
-        "Healthcare",
-        "ventas +36%",
-        "beneficios +36%",
-        "analistas +8%"
-      ]
-    },
-    {
-      "ticker": "SPOT",
-      "sector": "Communication Services",
-      "precio": 614.41,
-      "stop": 546.352,
-      "stop_pct": 0.1108,
-      "objetivo": 768.0125,
-      "rr": 2.26,
-      "ret6": 0.4375,
-      "rsi": 66.43,
-      "puntos": 57.8,
-      "notas": [
-        "Communication Services",
-        "ventas +16%",
-        "beneficios -24%",
-        "analistas +4%"
-      ]
-    },
-    {
-      "ticker": "MA",
-      "sector": "Financial Services",
-      "precio": 655.92,
-      "stop": 587.0484,
+      "ticker": "MTD",
+      "sector": "Health Care",
+      "precio": 1762.28,
+      "stop": 1577.2406,
       "stop_pct": 0.105,
-      "objetivo": 819.9,
+      "objetivo": 2202.85,
       "rr": 2.38,
-      "ret6": 0.3136,
-      "rsi": 65.62,
-      "puntos": 50.9,
+      "ret6": 0.634,
+      "rsi": 70.23,
+      "puntos": 69.5,
       "notas": [
-        "Financial Services",
-        "ventas +14%",
-        "beneficios +22%",
-        "deuda alta (355%)",
-        "analistas +8%"
+        "Health Care",
+        "beneficios +16%",
+        "deuda alta (2606%)",
+        "analistas -8%"
       ]
     },
     {
-      "ticker": "VRTX",
-      "sector": "Healthcare",
-      "precio": 542.5,
-      "stop": 485.5375,
+      "ticker": "A",
+      "sector": "Health Care",
+      "precio": 180.17,
+      "stop": 161.2521,
       "stop_pct": 0.105,
-      "objetivo": 678.125,
+      "objetivo": 225.2125,
       "rr": 2.38,
-      "ret6": 0.2765,
-      "rsi": 56.45,
-      "puntos": 42.2,
+      "ret6": 0.622,
+      "rsi": 59.29,
+      "puntos": 69.5,
       "notas": [
-        "Healthcare",
-        "ventas +12%",
-        "beneficios -39%",
-        "analistas +7%"
+        "Health Care",
+        "analistas +1%"
+      ]
+    },
+    {
+      "ticker": "IQV",
+      "sector": "Health Care",
+      "precio": 278.84,
+      "stop": 249.5618,
+      "stop_pct": 0.105,
+      "objetivo": 348.55,
+      "rr": 2.38,
+      "ret6": 0.6067,
+      "rsi": 59.66,
+      "puntos": 69.5,
+      "notas": [
+        "Health Care",
+        "analistas +12%"
+      ]
+    },
+    {
+      "ticker": "TMO",
+      "sector": "Health Care",
+      "precio": 721.63,
+      "stop": 645.8589,
+      "stop_pct": 0.105,
+      "objetivo": 902.0375,
+      "rr": 2.38,
+      "ret6": 0.5972,
+      "rsi": 61.56,
+      "puntos": 69.2,
+      "notas": [
+        "Health Care",
+        "analistas +5%"
+      ]
+    },
+    {
+      "ticker": "BBY",
+      "sector": "Consumer Discretionary",
+      "precio": 106.28,
+      "stop": 94.3442,
+      "stop_pct": 0.1123,
+      "objetivo": 132.85,
+      "rr": 2.23,
+      "ret6": 0.8887,
+      "rsi": 66.73,
+      "puntos": 68.9,
+      "notas": [
+        "Consumer Discretionary",
+        "beneficios +70%",
+        "analistas -16%"
+      ]
+    },
+    {
+      "ticker": "RVTY",
+      "sector": "Health Care",
+      "precio": 160.72,
+      "stop": 137.2934,
+      "stop_pct": 0.1458,
+      "objetivo": 200.9,
+      "rr": 1.72,
+      "ret6": 0.626,
+      "rsi": 55.74,
+      "puntos": 66.9,
+      "notas": [
+        "Health Care",
+        "beneficios +38%",
+        "analistas +6%"
+      ]
+    },
+    {
+      "ticker": "TECH",
+      "sector": "Health Care",
+      "precio": 72.83,
+      "stop": 65.1829,
+      "stop_pct": 0.105,
+      "objetivo": 91.0375,
+      "rr": 2.38,
+      "ret6": 0.5404,
+      "rsi": 63.17,
+      "puntos": 63.6,
+      "notas": [
+        "Health Care",
+        "beneficios -25%",
+        "analistas -3%"
       ]
     }
   ]
