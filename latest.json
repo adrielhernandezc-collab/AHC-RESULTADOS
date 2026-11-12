@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-11-11",
-  "generado_utc": "2026-11-11T01:21:59+00:00",
-  "datos_hasta": "2026-11-09",
+  "fecha": "2026-11-12",
+  "generado_utc": "2026-11-12T02:23:33+00:00",
+  "datos_hasta": "2026-11-10",
   "estado": "ok",
   "mensaje": "8 candidata(s) seleccionadas.",
   "benchmark": "SPY",
@@ -9,136 +9,140 @@
     {
       "ticker": "VEEV",
       "sector": "Health Care",
-      "precio": 306.4,
-      "stop": 274.228,
+      "precio": 305.55,
+      "stop": 273.4672,
       "stop_pct": 0.105,
-      "objetivo": 383.0,
+      "objetivo": 381.9375,
       "rr": 2.38,
-      "ret6": 0.9231,
-      "rsi": 53.21,
+      "ret6": 0.9166,
+      "rsi": 52.43,
       "puntos": 69.5,
       "notas": [
         "Health Care",
         "ventas +18%",
         "beneficios +40%",
-        "analistas +5%"
+        "analistas +6%"
       ]
     },
     {
       "ticker": "MTD",
       "sector": "Health Care",
-      "precio": 1762.28,
-      "stop": 1577.2406,
+      "precio": 1751.38,
+      "stop": 1567.4851,
       "stop_pct": 0.105,
-      "objetivo": 2202.85,
+      "objetivo": 2189.225,
       "rr": 2.38,
-      "ret6": 0.634,
-      "rsi": 70.23,
+      "ret6": 0.6331,
+      "rsi": 67.79,
       "puntos": 69.5,
       "notas": [
         "Health Care",
         "beneficios +16%",
         "deuda alta (2606%)",
-        "analistas -4%"
-      ]
-    },
-    {
-      "ticker": "A",
-      "sector": "Health Care",
-      "precio": 180.17,
-      "stop": 161.2521,
-      "stop_pct": 0.105,
-      "objetivo": 225.2125,
-      "rr": 2.38,
-      "ret6": 0.622,
-      "rsi": 59.29,
-      "puntos": 69.5,
-      "notas": [
-        "Health Care",
-        "analistas +1%"
-      ]
-    },
-    {
-      "ticker": "IQV",
-      "sector": "Health Care",
-      "precio": 278.84,
-      "stop": 249.5618,
-      "stop_pct": 0.105,
-      "objetivo": 348.55,
-      "rr": 2.38,
-      "ret6": 0.6067,
-      "rsi": 59.66,
-      "puntos": 69.5,
-      "notas": [
-        "Health Care",
-        "analistas +12%"
-      ]
-    },
-    {
-      "ticker": "TMO",
-      "sector": "Health Care",
-      "precio": 721.63,
-      "stop": 645.8589,
-      "stop_pct": 0.105,
-      "objetivo": 902.0375,
-      "rr": 2.38,
-      "ret6": 0.5972,
-      "rsi": 61.56,
-      "puntos": 69.2,
-      "notas": [
-        "Health Care",
-        "analistas +5%"
+        "analistas -2%"
       ]
     },
     {
       "ticker": "BBY",
       "sector": "Consumer Discretionary",
-      "precio": 106.28,
-      "stop": 94.3442,
-      "stop_pct": 0.1123,
-      "objetivo": 132.85,
-      "rr": 2.23,
-      "ret6": 0.8887,
-      "rsi": 66.73,
-      "puntos": 68.9,
+      "precio": 104.1,
+      "stop": 92.1082,
+      "stop_pct": 0.1152,
+      "objetivo": 130.125,
+      "rr": 2.17,
+      "ret6": 0.8635,
+      "rsi": 62.48,
+      "puntos": 68.7,
       "notas": [
         "Consumer Discretionary",
         "beneficios +70%",
-        "analistas -16%"
+        "analistas -14%"
+      ]
+    },
+    {
+      "ticker": "A",
+      "sector": "Health Care",
+      "precio": 177.88,
+      "stop": 159.2026,
+      "stop_pct": 0.105,
+      "objetivo": 222.35,
+      "rr": 2.38,
+      "ret6": 0.5809,
+      "rsi": 56.01,
+      "puntos": 67.6,
+      "notas": [
+        "Health Care",
+        "analistas +2%"
       ]
     },
     {
       "ticker": "RVTY",
       "sector": "Health Care",
-      "precio": 160.72,
-      "stop": 137.2934,
-      "stop_pct": 0.1458,
-      "objetivo": 200.9,
-      "rr": 1.72,
-      "ret6": 0.626,
-      "rsi": 55.74,
-      "puntos": 66.9,
+      "precio": 159.1,
+      "stop": 136.2453,
+      "stop_pct": 0.1436,
+      "objetivo": 198.875,
+      "rr": 1.74,
+      "ret6": 0.6039,
+      "rsi": 54.05,
+      "puntos": 67.0,
       "notas": [
         "Health Care",
         "beneficios +38%",
-        "analistas +6%"
+        "analistas +8%"
       ]
     },
     {
-      "ticker": "TECH",
+      "ticker": "CDW",
+      "sector": "Information Technology",
+      "precio": 169.36,
+      "stop": 144.3471,
+      "stop_pct": 0.1477,
+      "objetivo": 211.7,
+      "rr": 1.69,
+      "ret6": 0.7238,
+      "rsi": 61.16,
+      "puntos": 66.8,
+      "notas": [
+        "Information Technology",
+        "ventas +18%",
+        "beneficios +11%",
+        "deuda alta (298%)",
+        "analistas +9%"
+      ]
+    },
+    {
+      "ticker": "IQV",
       "sector": "Health Care",
-      "precio": 72.83,
-      "stop": 65.1829,
+      "precio": 275.15,
+      "stop": 246.2592,
       "stop_pct": 0.105,
-      "objetivo": 91.0375,
+      "objetivo": 343.9375,
       "rr": 2.38,
-      "ret6": 0.5404,
-      "rsi": 63.17,
-      "puntos": 63.6,
+      "ret6": 0.5717,
+      "rsi": 55.96,
+      "puntos": 66.7,
       "notas": [
         "Health Care",
-        "beneficios -25%",
-        "analistas -3%"
+        "analistas +13%"
+      ]
+    },
+    {
+      "ticker": "CRL",
+      "sector": "Health Care",
+      "precio": 345.8,
+      "stop": 293.9817,
+      "stop_pct": 0.1499,
+      "objetivo": 432.25,
+      "rr": 1.67,
+      "ret6": 1.0499,
+      "rsi": 55.46,
+      "puntos": 66.7,
+      "notas": [
+        "Health Care",
+        "ventas -2%",
+        "beneficios +524%",
+        "analistas +0%"
       ]
     }
   ]
