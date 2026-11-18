@@ -1,38 +1,21 @@
 {
-  "fecha": "2026-11-17",
-  "generado_utc": "2026-11-17T04:04:54+00:00",
-  "datos_hasta": "2026-11-16",
+  "fecha": "2026-11-18",
+  "generado_utc": "2026-11-18T03:01:20+00:00",
+  "datos_hasta": "2026-11-17",
   "estado": "ok",
   "mensaje": "8 candidata(s) seleccionadas.",
   "benchmark": "SPY",
   "candidatas": [
     {
-      "ticker": "TECH",
-      "sector": "Health Care",
-      "precio": 72.79,
-      "stop": 65.1471,
-      "stop_pct": 0.105,
-      "objetivo": 90.9875,
-      "rr": 2.38,
-      "ret6": 0.6419,
-      "rsi": 63.85,
-      "puntos": 69.5,
-      "notas": [
-        "Health Care",
-        "beneficios -25%",
-        "analistas -3%"
-      ]
-    },
-    {
       "ticker": "MTD",
       "sector": "Health Care",
-      "precio": 1727.26,
-      "stop": 1545.8977,
+      "precio": 1712.95,
+      "stop": 1533.0902,
       "stop_pct": 0.105,
-      "objetivo": 2159.075,
+      "objetivo": 2141.1874,
       "rr": 2.38,
-      "ret6": 0.607,
-      "rsi": 61.37,
+      "ret6": 0.6302,
+      "rsi": 58.05,
       "puntos": 69.5,
       "notas": [
         "Health Care",
@@ -42,86 +25,86 @@
       ]
     },
     {
+      "ticker": "TECH",
+      "sector": "Health Care",
+      "precio": 72.63,
+      "stop": 65.0038,
+      "stop_pct": 0.105,
+      "objetivo": 90.7875,
+      "rr": 2.38,
+      "ret6": 0.6008,
+      "rsi": 52.22,
+      "puntos": 69.5,
+      "notas": [
+        "Health Care",
+        "beneficios -25%",
+        "analistas -3%"
+      ]
+    },
+    {
       "ticker": "BBY",
       "sector": "Consumer Discretionary",
-      "precio": 103.35,
-      "stop": 92.2711,
-      "stop_pct": 0.1072,
-      "objetivo": 129.1875,
-      "rr": 2.33,
-      "ret6": 0.8283,
-      "rsi": 59.58,
-      "puntos": 69.3,
+      "precio": 98.4,
+      "stop": 87.0388,
+      "stop_pct": 0.1155,
+      "objetivo": 123.0,
+      "rr": 2.17,
+      "ret6": 0.6994,
+      "rsi": 50.36,
+      "puntos": 68.7,
       "notas": [
         "Consumer Discretionary",
         "beneficios +70%",
-        "analistas -13%"
+        "analistas -7%"
       ]
     },
     {
       "ticker": "CDW",
       "sector": "Information Technology",
-      "precio": 165.82,
-      "stop": 143.4259,
-      "stop_pct": 0.1351,
-      "objetivo": 207.275,
-      "rr": 1.85,
-      "ret6": 0.6109,
-      "rsi": 55.78,
-      "puntos": 67.4,
+      "precio": 163.07,
+      "stop": 141.3819,
+      "stop_pct": 0.133,
+      "objetivo": 203.8375,
+      "rr": 1.88,
+      "ret6": 0.5795,
+      "rsi": 53.14,
+      "puntos": 65.5,
       "notas": [
         "Information Technology",
         "ventas +18%",
         "beneficios +11%",
         "deuda alta (298%)",
-        "analistas +12%"
+        "analistas +14%"
       ]
     },
     {
-      "ticker": "TMO",
-      "sector": "Health Care",
-      "precio": 691.33,
-      "stop": 618.7404,
-      "stop_pct": 0.105,
-      "objetivo": 864.1625,
-      "rr": 2.38,
-      "ret6": 0.5669,
-      "rsi": 50.55,
-      "puntos": 66.2,
+      "ticker": "DLTR",
+      "sector": "Consumer Staples",
+      "precio": 139.71,
+      "stop": 123.8311,
+      "stop_pct": 0.1137,
+      "objetivo": 174.6375,
+      "rr": 2.2,
+      "ret6": 0.5419,
+      "rsi": 58.13,
+      "puntos": 63.0,
       "notas": [
-        "Health Care",
-        "analistas +9%"
-      ]
-    },
-    {
-      "ticker": "SWK",
-      "sector": "Industrials",
-      "precio": 112.92,
-      "stop": 100.994,
-      "stop_pct": 0.1056,
-      "objetivo": 141.15,
-      "rr": 2.37,
-      "ret6": 0.5258,
-      "rsi": 64.64,
-      "puntos": 62.0,
-      "notas": [
-        "Industrials",
-        "ventas -1%",
-        "beneficios +439%",
-        "analistas +0%"
+        "Consumer Staples",
+        "beneficios +197%",
+        "analistas -1%"
       ]
     },
     {
       "ticker": "REGN",
       "sector": "Health Care",
-      "precio": 952.4,
-      "stop": 852.398,
+      "precio": 957.76,
+      "stop": 857.1952,
       "stop_pct": 0.105,
-      "objetivo": 1190.5,
+      "objetivo": 1197.2,
       "rr": 2.38,
-      "ret6": 0.5165,
-      "rsi": 67.46,
-      "puntos": 61.2,
+      "ret6": 0.5236,
+      "rsi": 68.25,
+      "puntos": 61.9,
       "notas": [
         "Health Care",
         "ventas +36%",
@@ -130,20 +113,38 @@
       ]
     },
     {
-      "ticker": "DLTR",
-      "sector": "Consumer Staples",
-      "precio": 138.7,
-      "stop": 122.5527,
-      "stop_pct": 0.1164,
-      "objetivo": 173.375,
-      "rr": 2.15,
-      "ret6": 0.5203,
-      "rsi": 57.2,
-      "puntos": 60.6,
+      "ticker": "ALLE",
+      "sector": "Industrials",
+      "precio": 186.77,
+      "stop": 167.1592,
+      "stop_pct": 0.105,
+      "objetivo": 233.4625,
+      "rr": 2.38,
+      "ret6": 0.4918,
+      "rsi": 60.3,
+      "puntos": 58.7,
       "notas": [
-        "Consumer Staples",
-        "beneficios +197%",
-        "analistas -1%"
+        "Industrials",
+        "beneficios +19%",
+        "analistas +4%"
+      ]
+    },
+    {
+      "ticker": "BDX",
+      "sector": "Health Care",
+      "precio": 215.42,
+      "stop": 192.8009,
+      "stop_pct": 0.105,
+      "objetivo": 269.275,
+      "rr": 2.38,
+      "ret6": 0.485,
+      "rsi": 69.74,
+      "puntos": 58.0,
+      "notas": [
+        "Health Care",
+        "ventas -10%",
+        "beneficios +48%",
+        "analistas +5%"
       ]
     }
   ]
