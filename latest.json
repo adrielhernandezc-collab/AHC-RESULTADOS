@@ -1,9 +1,9 @@
 {
-  "fecha": "2026-11-26",
-  "generado_utc": "2026-11-26T03:41:45+00:00",
+  "fecha": "2026-11-27",
+  "generado_utc": "2026-11-27T03:43:11+00:00",
   "datos_hasta": "2026-11-25",
   "estado": "mercado_bajista",
-  "mensaje": "2026-11-26: el mercado (SPY) está por debajo de su media de 200 días. Hoy no se generan avisos de compra.",
+  "mensaje": "2026-11-27: el mercado (SPY) está por debajo de su media de 200 días. Hoy no se generan avisos de compra.",
   "benchmark": "SPY",
   "candidatas": []
 }
